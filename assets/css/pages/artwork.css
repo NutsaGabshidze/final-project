@@ -162,7 +162,7 @@ p {
     display: flex;
     justify-content: space-between;
   }
-  /* all categorys */
+  /* all category */
   .category {
     margin-top: 61px;
     padding: 0 50px;
@@ -185,6 +185,5 @@ p {
   }
   .mob_none {
     display: grid;
-
   }
 }
